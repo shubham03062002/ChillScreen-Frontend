@@ -1,0 +1,1 @@
+export const BACKEND_URL= "https://chill-screen-backend.vercel.app/api/v1/user"

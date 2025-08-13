@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+.scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .chill-screen-logo {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Example font */
+    font-size: 48px;
+    font-weight: bold;
+  }
+  
+  .chill {
+    color: #3b82f6; /* Blue shade */
+    background: linear-gradient(to right, #3b82f6, #06b6d4); /* Gradient from blue to teal */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  .screen {
+    color: #10b981; /* Green shade */
+    background: linear-gradient(to right, #10b981, #d9f991); /* Gradient from green to light yellow */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .tvshows{
+    font-size: 50px;
+  font-family: sans-serif;
+  color: blueviolet;
+}
+  
+
+
+
+
+
+
+
+
+
+
+
