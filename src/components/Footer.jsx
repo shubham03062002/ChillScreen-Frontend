@@ -3,7 +3,7 @@ import { Mail, Github, Phone } from "lucide-react";
 
 export default function Footer() {
   return (
-    <footer className="bg-gradient-to-r from-pink-100 to-yellow-100 text-gray-800 py-6 mt-12 shadow-inner">
+    <footer className="bg-gradient-to-r from-pink-100 to-yellow-100 text-gray-800 py-6 mt-0 shadow-inner">
       <div className="container mx-auto px-4 text-center space-y-4">
         <p className="text-lg font-semibold">
           Designed & Developed by{" "}
