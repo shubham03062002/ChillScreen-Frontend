@@ -38,7 +38,7 @@ export default function Navbar() {
       ];
 
   return (
-    <nav className="bg-gradient-to-r from-pink-200 via-pink-300 to-pink-400 shadow-lg sticky top-0 z-50">
+    <nav className="bg-gradient-to-r from-pink-200 via-pink-300 to-pink-400 shadow-lg sticky top-0 z-50 opacity-[0.9]">
       <div className="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between">
         
         {/* Logo */}
